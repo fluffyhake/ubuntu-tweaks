@@ -15,3 +15,8 @@ You can make firefox to use native wayland instead of Xwayland and for me it is 
 
 [Source](https://ubuntuhandbook.org/index.php/2022/09/enable-wayland-firefox-chrome/)
 [Source 2](https://askubuntu.com/questions/1413750/how-to-change-2-finger-touchpad-scroll-speed-on-ubuntu-22-04)
+
+
+
+## Stop kinetic scrolling:
+Go to about:config and set "apz.gtk.kinetic_scroll.enabled" to false.
