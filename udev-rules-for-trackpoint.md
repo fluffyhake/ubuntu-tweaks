@@ -39,3 +39,12 @@ Rotation:         n/a
 
 dConf editor can be used to see parameters set on input devices:
 ![image](https://github.com/user-attachments/assets/dc328bed-7b86-4b0c-a3bd-7d948ca00c36)
+
+Custom values for trackpad:
+![image](https://github.com/user-attachments/assets/e7e47066-c866-47d7-a251-805ef660aea1)
+
+
+Custom values for mouse:
+![image](https://github.com/user-attachments/assets/a04cc3a3-2721-4755-adc9-6b6d2e671e12)
+
+
