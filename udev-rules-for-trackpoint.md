@@ -34,3 +34,8 @@ Disable-w-trackpointing: n/a
 Accel profiles:   flat *adaptive custom
 Rotation:         n/a
 ```
+
+
+
+dConf editor can be used to see parameters set on input devices:
+![image](https://github.com/user-attachments/assets/dc328bed-7b86-4b0c-a3bd-7d948ca00c36)
